@@ -2,8 +2,8 @@
  Escenarios que automatice:
  1. Agregar productos al carrito
  2. Editar carrito
- 3. eliminar carrito
-
+ 3. eliminar carrito (Incompleto)
+ 
  NOTA: no tome flujos de compra, de crear cuenta o ingresar con cuenta por motivos de privacidad de datos, ya que debo ingresar datos reales como 
  RUT, correo electronico, tdd o tdc.
  
